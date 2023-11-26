@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="header" align="center">
 
-<!--
-**melvin-rulit/melvin-rulit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F3342&random=false&width=435&lines=I+am+a+Fullstack+Web+Developer" alt="Typing SVG" /></a>
+</div>
 
-Here are some ideas to get you started:
+##
+Hi my name is Yuri. I am a specialist with over 4 years of experience.
+My goal is to develop my professional skills while working in a development team and receiving decent wages. 📎 [more information about me](https://melvin-rulit.github.io/Resume/)
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+   <a href="https://www.linkedin.com/skill-assessments/hub/quizzes/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   </a>
+   <a href="https://t.me/melvin_rulit">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+
+</p>
