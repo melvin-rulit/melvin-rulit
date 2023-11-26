@@ -5,7 +5,7 @@
 
 ##
 Hi my name is Yuri. I am a specialist with over 4 years of experience.
-My goal is to develop my professional skills while working in a development team and receiving decent wages.  [📎](https://github.com/melvin-rulit/Resume)
+My goal is to develop my professional skills while working in a development team and receiving decent wages.  📎[open](https://github.com/melvin-rulit/Resume)
 ##
 
 <p align='center'>
