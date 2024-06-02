@@ -4,7 +4,7 @@
 </div>
 
 ##
-Hi my name is Alex. I am a specialist with over 4 years of experience.
+Hi my name is Yrii. I am a specialist with over 4 years of experience.
 My goal is to develop my professional skills while working in a development team and receiving decent wages.  📎[open resume](https://github.com/melvin-rulit/Resume)
 ##
 
