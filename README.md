@@ -1,10 +1,10 @@
 <div id="header" align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F3342&random=false&width=435&lines=I+am+a+Backend+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F3342&random=false&width=435&lines=I'm+a+Backend+Web+Developer" alt="Typing SVG" /></a>
 </div>
 
 ##
-I am a specialist with over 4 years of experience.
+My name is Alexey. I am a specialist with over 4 years of experience.
 My goal is to develop my professional skills while working in a development team and receiving decent wages.  📎[open resume](https://github.com/melvin-rulit/Resume)
 ##
 
